@@ -10,7 +10,7 @@ This repository provides a simple yet accurate simulation of a satellite's motio
 
 ### Inspiration 
 
-1. Planet Simulation In Python - Tutorial by Tech with Tim - https://youtu.be/WTLPmUHTPqo?feature=shared
+1. Planet Simulation In Python Tutorial by Tech with Tim - https://youtu.be/WTLPmUHTPqo?feature=shared
 2. Simulating Planetry Orbits - https://fiftyexamples.readthedocs.io/en/latest/gravity.html
 
 ### Contributions 
